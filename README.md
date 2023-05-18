@@ -1,5 +1,6 @@
-# Projet1_Ravenclaw
+# Projet 1 - Ravenfeed
 First project of AIT OUARRAOU Hafsa, FABER Samuel, FABIER Victor, DAVIAUD Vincent
+https://samuelfaberdev.github.io/WCS-Projet1-RavenFeed/
 
 ## Présentation
 
@@ -8,7 +9,7 @@ Ravenfeed est le premier projet réalisé dans la formation remote de février 2
 C'est un modèle de réseau social sous le principe de courts messages.  
 
 
-### Fonctionnalités
+## Fonctionnalités
 
 Développé en mobile first, les messages des utilisateurs s'affichent sur le corps de la page.  
 
